@@ -9,6 +9,10 @@ sites:
     url: Https://aver.digital
   - name: Frontend Foundry
     url: Https://frontend-foundry.patryknamyslak.pl
+  - name: Cypherus Wallet app
+    url: https://cypherus.site
+  - name: Url Shortener
+    url: https://patl.ink/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
