@@ -7,6 +7,8 @@ sites:
     url: https://PatrykNamyslak.pl
   - name: aver.digital
     url: Https://aver.digital
+  - name: Frontend Foundry
+    url: Https://frontend-foundry.patryknamyslak.pl
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
