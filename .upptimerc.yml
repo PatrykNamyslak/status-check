@@ -5,6 +5,8 @@ repo: status-check # The name of this repository
 sites:
   - name: patryknamyslak.pl
     url: https://PatrykNamyslak.pl
+  - name: aver.digital
+    url: Https://aver.digital
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
