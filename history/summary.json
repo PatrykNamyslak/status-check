@@ -4,18 +4,20 @@
     "url": "https://PatrykNamyslak.pl",
     "icon": "https://icons.duckduckgo.com/ip3/patryknamyslak.pl.ico",
     "slug": "patryknamyslak-pl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 494,
-    "timeDay": 455,
-    "timeWeek": 494,
-    "timeMonth": 494,
-    "timeYear": 494,
-    "dailyMinutesDown": {}
+    "time": 479,
+    "timeDay": 399,
+    "timeWeek": 479,
+    "timeMonth": 479,
+    "timeYear": 479,
+    "dailyMinutesDown": {
+      "2024-09-12": 0
+    }
   },
   {
     "name": "aver.digital",
@@ -34,7 +36,7 @@
     "timeMonth": 180,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2024-09-12": 34,
+      "2024-09-12": 1190,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
@@ -66,18 +68,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cypherus.site.ico",
     "slug": "cypherus-wallet-app",
     "status": "down",
-    "uptime": "65.86%",
+    "uptime": "56.71%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "65.86%",
-    "uptimeMonth": "65.86%",
-    "uptimeYear": "65.86%",
+    "uptimeWeek": "56.71%",
+    "uptimeMonth": "56.71%",
+    "uptimeYear": "56.71%",
     "time": 441,
     "timeDay": 353,
     "timeWeek": 441,
     "timeMonth": 441,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2024-09-12": 34,
+      "2024-09-12": 1190,
       "2024-09-11": 1440,
       "2024-09-10": 971
     }
@@ -87,17 +89,19 @@
     "url": "https://patl.ink/",
     "icon": "https://icons.duckduckgo.com/ip3/patl.ink.ico",
     "slug": "url-shortener",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 666,
-    "timeDay": 338,
-    "timeWeek": 666,
-    "timeMonth": 666,
-    "timeYear": 666,
-    "dailyMinutesDown": {}
+    "time": 618,
+    "timeDay": 332,
+    "timeWeek": 618,
+    "timeMonth": 618,
+    "timeYear": 618,
+    "dailyMinutesDown": {
+      "2024-09-12": 0
+    }
   }
 ]
