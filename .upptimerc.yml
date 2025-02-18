@@ -5,12 +5,8 @@ repo: status-check # The name of this repository
 sites:
   - name: patryknamyslak.pl
     url: https://PatrykNamyslak.pl
-  - name: aver.digital
-    url: Https://aver.digital
   - name: Frontend Foundry
-    url: Https://frontend-foundry.patryknamyslak.pl
-  - name: Cypherus Wallet app
-    url: https://cypherus.site
+    url: Https://frontendfoundry.dev
   - name: Url Shortener
     url: https://patl.ink/
 
