@@ -4,12 +4,17 @@ repo: status-check # The name of this repository
 
 sites:
   - name: patryknamyslak.pl
-    url: https://PatrykNamyslak.pl
+    url: https://patl.ink/pn
   - name: Frontend Foundry
-    url: Https://frontendfoundry.dev
+    url: https://patl.ink/?url=iITaBt
   - name: Patl.ink
     url: https://patl.ink/
-
+  - name: Banking App
+    url: https://patl.ink/?url=8fTcEv
+  - name: Dynamic Counter
+    url: https://patl.ink/?url=Oxt9Sk
+  - name: CO-OP Tic Tac Toe
+    url: https://patl.ink/?url=xDdetI
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
